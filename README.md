@@ -111,7 +111,7 @@ You can expand this project by adding:
 
 Watch the full step-by-step tutorial on YouTube:
 
-👉 (Add your video link here)
+[![Watch the video](https://img.youtube.com/vi/QSZGTJiMycU/0.jpg)](https://youtu.be/QSZGTJiMycU)
 
 In this video, you will see:
 - Complete wiring demonstration  
